@@ -70,7 +70,7 @@ Data Analysis · Scientific Computing · Strategy Development
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jojork\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jojork&show_icons=true&hide_border=true)
 
 ---
 
