@@ -13,16 +13,16 @@ In parallel, I design algorithmic trading systems with structured logic and risk
 ---
 
 ## 🎓 Education
-
+* BSc (Non-Med) — Sri Guru Gobind Singh College, Chandigarh, India
 * MSc Physics — Rayat Bahra University, Punjab, India
-* Bachelor of Education (B.Ed)
+* Bachelor of Education (B.Ed) - Chandigarh Group of Colleges, Punjab, india
 
 ---
 
 ## 💻 Skills
 
 **Programming & Tools**
-Python · MQL5 · GPAW · ASE
+Python · MQL5 · GPAW · ASE  · VESTA
 
 **Core Areas**
 Density Functional Theory (DFT) · Nanomaterials · Quantum Mechanics
@@ -39,7 +39,7 @@ Data Analysis · Scientific Computing · Strategy Development
 * Simulation of 2D materials and nanostructures
 * Structural optimization using numerical methods (BFGS)
 * Cohesive energy and stability analysis
-* Electronic property evaluation using DFT
+* Electronic, Mechanical and Optical Property evaluation using DFT
 
 ---
 
@@ -70,14 +70,14 @@ Data Analysis · Scientific Computing · Strategy Development
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jojork\&show_icons=true\&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: https://github.com/yourusername
+* Email: [jojorksing@gmail.com](mailto:jojorksing@gmail.com)
+* GitHub: https://github.com/jojork
 
 ---
 
