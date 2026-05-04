@@ -1,4 +1,94 @@
-## Hi there 👋
+# Rohit Kumar
+
+**Computational Physics Researcher | Algorithmic Trading Developer | Web3 Explorer**
+
+---
+
+## 🧠 About
+
+I am an early-stage researcher in computational materials science with a focus on simulation-driven analysis using Density Functional Theory (DFT). My work involves modeling low-dimensional materials and studying their physical properties through numerical methods.
+
+In parallel, I design algorithmic trading systems with structured logic and risk management. I also explore emerging technologies in the Web3 ecosystem through hands-on interaction with decentralized applications.
+
+---
+
+## 🎓 Education
+
+* MSc Physics — Rayat Bahra University, Punjab, India
+* Bachelor of Education (B.Ed)
+
+---
+
+## 💻 Skills
+
+**Programming & Tools**
+Python · MQL5 · GPAW · ASE
+
+**Core Areas**
+Density Functional Theory (DFT) · Nanomaterials · Quantum Mechanics
+
+**Other Skills**
+Data Analysis · Scientific Computing · Strategy Development
+
+---
+
+## 🔬 Research & Technical Work
+
+### Computational Materials Research
+
+* Simulation of 2D materials and nanostructures
+* Structural optimization using numerical methods (BFGS)
+* Cohesive energy and stability analysis
+* Electronic property evaluation using DFT
+
+---
+
+### Algorithmic Trading Systems
+
+* Development of rule-based trading strategies in MQL5
+* Integration of indicators (RSI, EMA, ATR, Supertrend, MFI)
+* Risk management using TP/SL and position sizing models
+* Optimization for high-frequency execution and consistency
+
+---
+
+### Web3 Exploration
+
+* Interaction with decentralized applications (dApps) across multiple ecosystems
+* Understanding of smart contract-based platforms and user workflows
+* Practical exposure to blockchain-based tools and systems
+
+---
+
+## 👨‍🏫 Teaching & Communication
+
+* Academic training through B.Ed program
+* Ability to explain technical and scientific concepts clearly
+* Experience in structured learning and instruction
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&hide_border=true)
+
+---
+
+## 📫 Contact
+
+* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/yourusername
+
+---
+
+## ⚡ Focus
+
+* Advanced computational material research
+* Scalable algorithmic trading systems
+* Practical applications of emerging technologies
+
+---
+
 
 <!--
 **jojork/jojork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
