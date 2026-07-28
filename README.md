@@ -6,7 +6,8 @@
 
 ## 🧠 About
 
-I am an early-stage researcher in computational materials science with a focus on simulation-driven analysis using Density Functional Theory (DFT). My work involves modeling low-dimensional materials and studying their physical properties through numerical methods.
+I am an early-stage researcher in computational materials science with a focus on simulation-driven analysis using Density Functional Theory (DFT). My work involves modeling low-dimensional materials and studying their physical properties through numerical methods.Skilled in first-principles simulations, scientific computing, and Python programming, with hands-on experience in advanced simulation software including GPAW, ASE, NanoDCAL, NanoSKIM, RESCU, DsPaw, and Setfos. Eager to contribute to computational research in advanced materials and nanotechnology
+
 
 In parallel, I design algorithmic trading systems with structured logic and risk management. I also explore emerging technologies in the Web3 ecosystem through hands-on interaction with decentralized applications.
 
