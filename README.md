@@ -69,12 +69,6 @@ Data Analysis · Scientific Computing · Strategy Development
 
 ---
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jojork&show_icons=true&hide_border=true)
-
----
-
 ## 📫 Contact
 
 * Email: [jojorksing@gmail.com](mailto:jojorksing@gmail.com)
